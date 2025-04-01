@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbae5eaf85e3c924d99edf9cb9683652, type: 3}
+  m_Name: French
+  m_EditorClassIdentifier: 
+  text1: "Un Rattata sauvage a vol\xE9 ton d\xE9jeuner!"
+  text2: "Le Professeur Chen interdit le v\xE9lo en int\xE9rieur."
+  text3: Ton rival arrive toujours avant toi... Bizarre.
+  text4: "Rappelle-toi : Magikarp a juste besoin d\u2019amour\u2026 et de beaucoup
+    de niveaux."
